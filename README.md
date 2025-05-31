@@ -1,4 +1,4 @@
-# AI Model Fine-tuning Repository
+# Model Fine-tuning Repository
 
 This repository contains a collection of Jupyter notebooks and examples for fine-tuning various AI models for different tasks. Each directory focuses on a specific model type or application area.
 
