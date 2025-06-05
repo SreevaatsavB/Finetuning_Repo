@@ -7,6 +7,7 @@ This repository contains a collection of Jupyter notebooks and examples for fine
 ```
 Finetuning_Repo/
 ├── Doc_Retrieval_finetuning/      # Fine-tuning sentence transformers for document retrieval
+├── FLUX_image_generation/         # Fine-tuning FLUX models for image generation
 ├── LLM_finetuning/                # Fine-tuning Language Models
 ├── OCR_finetuning/                # OCR model fine-tuning
 │   ├── Image_trascription/        # Fine-tuning for image-to-text transcription (TrOCR)
@@ -19,6 +20,9 @@ Finetuning_Repo/
 
 ### Doc_Retrieval_finetuning
 Contains notebooks for fine-tuning sentence transformer models for document retrieval tasks. Improves embedding quality for specific domains.
+
+### FLUX_image_generation
+Notebooks and scripts for fine-tuning FLUX models for conditional image generation tasks. Enables creating customized image outputs based on specific prompts or conditions.
 
 ### LLM_finetuning
 Resources for fine-tuning Large Language Models for various text generation tasks.
